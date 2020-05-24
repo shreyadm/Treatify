@@ -22,6 +22,11 @@ A Clinic Management System
 
 ## Sample Pictures
 
+##### Please refer [sample picture folder](https://github.com/shreyadm/Treatify/tree/master/sample_pictures) for more pictures.
+
+![Doctor Module Homepage](https://github.com/shreyadm/Treatify/blob/master/sample_pictures/doctor.png?raw=true)
+![Presciption](https://github.com/shreyadm/Treatify/blob/master/sample_pictures/prescription.png?raw=true)
+
 ## Contributors
 * [Shreya Mahajan](https://github.com/shreyadm)
 * [Riya Parekh](https://github.com/RiyaParekh)
