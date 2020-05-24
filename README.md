@@ -29,6 +29,6 @@ A Clinic Management System
 
 ## Contributors
 * [Shreya Mahajan](https://github.com/shreyadm)
-* [Riya Parekh](https://github.com/RiyaParekh)
+* [Riya Parekh](https://github.com/RiyaParekh1234)
 * [Shreya Kajbaje](https://github.com/shreyakajbaje)
 * [Rashmi Mokashi](https://github.com/rashmi11mokashi)
