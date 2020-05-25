@@ -13,7 +13,7 @@ A Clinic Management System
   - [MySQL](https://www.mysql.com/downloads/) and [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
   
 ## Steps to run
-1. Clone/download the repository
+1. Clone or download the repository
 2. Unzip the folder
 3. Open terminal and browse to the project directory(where manage.py is present)
 4. Execute the command >python manage.py runserver 
